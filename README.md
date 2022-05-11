@@ -26,14 +26,15 @@ Display the route sequence.
 
 ## ROUTE MAP
 
-![ai1](https://user-images.githubusercontent.com/75235789/167634807-582e24c0-e00e-40a1-8770-6f89fdb5eed2.png)
+![AI exp 2 saran](https://user-images.githubusercontent.com/75235427/166482461-daa6746b-f9ab-4cb0-bc3c-dfd6f84405b9.png)
+
 
 
 ## PROGRAM
 ```
 Developed By
-Student name : Dineshkumar V
-Reg.no : 212220230013
+Student name : Saran m
+Reg.no : 212220230044
 ```
 
 
